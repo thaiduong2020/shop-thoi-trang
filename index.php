@@ -1,3 +1,3 @@
 <?php
-    header('location: controller/client.php');ss
-?>
+    header('location: controller/client.php');ssss
+?>s
